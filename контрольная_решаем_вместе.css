@@ -1,0 +1,9 @@
+button {
+    background-color: grey;
+    color: black;
+}
+
+.total button {
+    background-color: red;
+    color: white;
+}
